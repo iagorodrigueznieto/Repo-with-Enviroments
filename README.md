@@ -1,8 +1,8 @@
 # Repo-with-Enviroments
-Repo para enviroments actualizado
+Updated Readme file
 
 ## Clonation of the Repo 
-Cloning the Repo may be done by using Git clone (Url of the repo) command in your terminal. (Must be using Git application)
+Cloning the Repo might be done by using Git clone (Url of the repo) command in your terminal. (Must be using Git application)
  > git clone https://github.com/iagorodrigueznieto/Repo-with-Enviroments
 
 
